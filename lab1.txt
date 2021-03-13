@@ -1,0 +1,28 @@
+1 pętla for rysuje dużą spiralę
+2 pętla for rysuje małą spiralę
+wiersz po wierszu
+1 import podkładki ryżowej
+2 ustaw kolor tła na czarny
+3 tworzymy tablicę kolorów
+4 wyjmij długopis z podkładki ryżowej
+5 ustaw prędkość rysowania (maksymalna)
+// wszystkie ruchy rysują linie, jeśli
+6 Rozpoczyna się cykl rysowania 
+7 to jest przemiana kolorów rączki (z tablicy)
+8 zmień szerokość rączki (aby linie były później grubsze)
+9 przesuwa uchwyt bezpośrednio do x
+10 pochylenia 59 stopni przeciwnie do ruchu wskazówek zegara (aby wyglądało ładnie)
+
+11 przywracają szerokość uchwytu do minimum
+12 cykl drugiej spirali
+13 to jest naprzemienność kolorów rączki (z tablicy)
+14 przesuwa się o 100 do przodu
+15 obróć w prawo o 30 stopni
+16 przesuwa się o 20 do przodu
+17 obróć w lewo o 60
+18 ruch 50
+19 obrót w prawo 30
+20 podnieś pióro, aby się poruszać i nic nie rysować
+21 ustawić pozycję na środek
+22 odzyskać uchwyt
+23 obrót w prawo o 2 stopnie
